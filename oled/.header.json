@@ -1,0 +1,20 @@
+{
+    "target": "microbit",
+    "targetVersion": "2.1.1",
+    "name": "SSD1306_OLED",
+    "meta": {},
+    "editor": "tsprj",
+    "pubId": "",
+    "pubCurrent": false,
+    "_rev": null,
+    "id": "e0a1e3b9-4984-4ab4-0ffb-429d86d34177",
+    "recentUse": 1561378080,
+    "modificationTime": 1561378070,
+    "blobId": null,
+    "blobVersion": null,
+    "blobCurrent": false,
+    "isDeleted": false,
+    "path": "oled",
+    "githubCurrent": false,
+    "saveId": null
+}
